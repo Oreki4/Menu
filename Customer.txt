@@ -1,0 +1,3 @@
+1,Mikko,7th St.,0904,Male,09050233060
+2,Julius,Dito lang,Titikman,Female,09123456789
+3,Hannah,123,Hi,Female,009089571822
